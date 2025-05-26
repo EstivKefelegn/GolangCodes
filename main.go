@@ -95,3 +95,6 @@ func newNumberGen2() *[5]int {
 
 
 
+/*
+Stopped on the slices package and its methods.
+*/
